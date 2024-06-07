@@ -1,4 +1,4 @@
-![Register](https://github.com/myfarism/Project/assets/143385061/4bba9479-0a7a-4b07-b963-4262b9824d10)Ini adalah program sederhana aplikasi sewa laptop menggunakan bahasa pemrogaraman Python yang terintegrasi dengan database sql.
+Ini adalah program sederhana aplikasi sewa laptop menggunakan bahasa pemrogaraman Python yang terintegrasi dengan database sql.
 
 Aplikasi ini memiliki 3 fitur, Sewa Laptop, Table Laptop, dan riwayat
 
