@@ -1,4 +1,4 @@
-Ini adalah program sederhana aplikasi sewa laptop menggunakan bahasa pemrogaraman Python yang terintegrasi dengan database sql.
+Ini adalah program sederhana aplikasi sewa laptop menggunakan bahasa pemrogaraman Python yang terintegrasi dengan database sql. Program ini adalah versi lainnya yang saya buat di bahasa yang berbeda
 
 Aplikasi ini memiliki 3 fitur, Sewa Laptop, Table Laptop, dan riwayat
 
